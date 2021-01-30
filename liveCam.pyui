@@ -5,10 +5,30 @@
         "nodes" : [
 
         ],
-        "frame" : "{{210, 0}, {205, 130}}",
+        "frame" : "{{0, 0}, {540, 30}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "onAction",
+          "flex" : "WHLRTB",
+          "frame" : "{{247, 205}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "title" : "liveCam",
+          "uuid" : "90B3351D-A5D9-4BA2-8AE7-417D55D91704",
+          "class" : "Button",
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 38}, {265, 160}}",
         "class" : "WebView",
         "attributes" : {
-          "flex" : "WH",
+          "flex" : "WHLRTB",
           "frame" : "{{187, 121}, {200, 200}}",
           "class" : "WebView",
           "scales_to_fit" : true,
@@ -22,34 +42,15 @@
         "nodes" : [
 
         ],
-        "frame" : "{{0, 0}, {205, 130}}",
-        "class" : "Button",
-        "attributes" : {
-          "action" : "update",
-          "frame" : "{{247, 205}, {80, 32}}",
-          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
-          "title" : "update",
-          "uuid" : "90B3351D-A5D9-4BA2-8AE7-417D55D91704",
-          "class" : "Button",
-          "background_color" : "RGBA(0.603921,0.800000,1.000000,1.000000)",
-          "name" : "button1",
-          "font_size" : 15
-        },
-        "selected" : false
-      },
-      {
-        "nodes" : [
-
-        ],
-        "frame" : "{{0, 136}, {205, 130}}",
+        "frame" : "{{275, 38}, {265, 160}}",
         "class" : "WebView",
         "attributes" : {
-          "flex" : "WH",
-          "frame" : "{{248, 162}, {200, 200}}",
-          "uuid" : "00B07102-20AF-45E1-AA5C-EDDBC7059BB6",
-          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
+          "flex" : "WHLRTB",
+          "frame" : "{{187, 121}, {200, 200}}",
           "class" : "WebView",
           "scales_to_fit" : true,
+          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
+          "uuid" : "4A1E8ED2-E62D-44F6-8A1D-555DB57AE208",
           "name" : "webview1"
         },
         "selected" : false
@@ -58,15 +59,15 @@
         "nodes" : [
 
         ],
-        "frame" : "{{210, 136}, {205, 130}}",
+        "frame" : "{{0, 208}, {265, 160}}",
         "class" : "WebView",
         "attributes" : {
-          "flex" : "WH",
+          "flex" : "WHLRTB",
           "frame" : "{{187, 121}, {200, 200}}",
-          "uuid" : "4A1E8ED2-E62D-44F6-8A1D-555DB57AE208",
-          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
           "class" : "WebView",
           "scales_to_fit" : true,
+          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
+          "uuid" : "4A1E8ED2-E62D-44F6-8A1D-555DB57AE208",
           "name" : "webview2"
         },
         "selected" : false
@@ -75,15 +76,15 @@
         "nodes" : [
 
         ],
-        "frame" : "{{0, 272}, {205, 130}}",
+        "frame" : "{{275, 208}, {265, 160}}",
         "class" : "WebView",
         "attributes" : {
-          "flex" : "WH",
+          "flex" : "WHLRTB",
           "frame" : "{{187, 121}, {200, 200}}",
-          "uuid" : "4A1E8ED2-E62D-44F6-8A1D-555DB57AE208",
-          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
           "class" : "WebView",
           "scales_to_fit" : true,
+          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
+          "uuid" : "4A1E8ED2-E62D-44F6-8A1D-555DB57AE208",
           "name" : "webview3"
         },
         "selected" : false
@@ -92,15 +93,15 @@
         "nodes" : [
 
         ],
-        "frame" : "{{210, 272}, {205, 130}}",
+        "frame" : "{{0, 380}, {265, 160}}",
         "class" : "WebView",
         "attributes" : {
-          "flex" : "WH",
+          "flex" : "WHLRTB",
           "frame" : "{{187, 121}, {200, 200}}",
-          "uuid" : "4A1E8ED2-E62D-44F6-8A1D-555DB57AE208",
-          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
           "class" : "WebView",
           "scales_to_fit" : true,
+          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
+          "uuid" : "4A1E8ED2-E62D-44F6-8A1D-555DB57AE208",
           "name" : "webview4"
         },
         "selected" : false
@@ -109,79 +110,28 @@
         "nodes" : [
 
         ],
-        "frame" : "{{0, 408}, {205, 130}}",
+        "frame" : "{{275, 380}, {265, 160}}",
         "class" : "WebView",
         "attributes" : {
-          "flex" : "WH",
+          "flex" : "WHLRTB",
           "frame" : "{{187, 121}, {200, 200}}",
-          "uuid" : "4A1E8ED2-E62D-44F6-8A1D-555DB57AE208",
-          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
           "class" : "WebView",
           "scales_to_fit" : true,
+          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
+          "uuid" : "4A1E8ED2-E62D-44F6-8A1D-555DB57AE208",
           "name" : "webview5"
-        },
-        "selected" : false
-      },
-      {
-        "nodes" : [
-
-        ],
-        "frame" : "{{209, 408}, {205, 130}}",
-        "class" : "WebView",
-        "attributes" : {
-          "flex" : "WH",
-          "frame" : "{{187, 121}, {200, 200}}",
-          "uuid" : "4A1E8ED2-E62D-44F6-8A1D-555DB57AE208",
-          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
-          "class" : "WebView",
-          "scales_to_fit" : true,
-          "name" : "webview6"
-        },
-        "selected" : false
-      },
-      {
-        "nodes" : [
-
-        ],
-        "frame" : "{{0, 544}, {205, 130}}",
-        "class" : "WebView",
-        "attributes" : {
-          "flex" : "WH",
-          "frame" : "{{187, 121}, {200, 200}}",
-          "uuid" : "4A1E8ED2-E62D-44F6-8A1D-555DB57AE208",
-          "scales_to_fit" : true,
-          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
-          "class" : "WebView",
-          "name" : "webview7"
-        },
-        "selected" : false
-      },
-      {
-        "nodes" : [
-
-        ],
-        "frame" : "{{210, 544}, {205, 130}}",
-        "class" : "WebView",
-        "attributes" : {
-          "flex" : "WH",
-          "frame" : "{{187, 121}, {200, 200}}",
-          "uuid" : "4A1E8ED2-E62D-44F6-8A1D-555DB57AE208",
-          "scales_to_fit" : true,
-          "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
-          "class" : "WebView",
-          "name" : "webview8"
         },
         "selected" : false
       }
     ],
-    "frame" : "{{0, 0}, {420, 680}}",
+    "frame" : "{{0, 0}, {540, 540}}",
     "class" : "View",
     "attributes" : {
-      "background_color" : "RGBA(0.600000,0.800000,1.000000,1.000000)",
-      "enabled" : true,
-      "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
-      "name" : "LiveCam",
       "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "",
+      "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
       "flex" : ""
     },
     "selected" : false
